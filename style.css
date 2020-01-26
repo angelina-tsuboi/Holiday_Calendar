@@ -1,0 +1,9 @@
+section{
+    max-width:80vh;
+    margin:1rem auto;
+    height:80vh;
+}
+
+#pnlEventCalendar{
+    width:100%;
+}
